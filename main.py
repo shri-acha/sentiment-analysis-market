@@ -31,11 +31,10 @@ def main():
         "date")[["positive", "neutral", "negative"]].mean()
     print(daily_sentiment)
 
-    corpuses = load_corpus('./corpus/financial_corpus.json')
+    corpus = load_corpus('./corpus/financial_corpus.json')
+    # corpus = ["low", "lower", "lowest","lowering"]
     # print(corpuses)
-    for corpus in corpuses:
-        merges,vocab = bpe_tokenizer(corpus, 100)
-        print(vocab)
+    merges,vocab = bpe_tokenizer(corpus, 50)
 
 
 if __name__ == '__main__':

@@ -1,4 +1,5 @@
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
+import re
 import matplotlib.pyplot as plt
 import json
 from collections import Counter, defaultdict
@@ -10,7 +11,8 @@ from datetime import datetime
 tokenizer = AutoTokenizer.from_pretrained("yiyanghkust/finbert-tone")
 
 
-def bpe_tokenizer(corpus, no_of_merges=50):
+def bpe_tokenizer(corpus, no_of_merges=10):
+    tokens = set()
     merges = []
     vocab = get_vocab(corpus)
     for _ in range(no_of_merges):
@@ -20,13 +22,16 @@ def bpe_tokenizer(corpus, no_of_merges=50):
         best_pair = max(pairs, key=pairs.get)
         merges.append(best_pair)
         vocab = join_pair(best_pair, vocab)
+        for word in vocab:
+            tokens.update(word.split()) 
+    print(tokens)
     return merges, vocab
 
 
 def get_vocab(corpus):
     vocab = Counter()
     for word in corpus:
-        word += '</w>'
+        # word += '</w>'
         chars = " ".join(list(word))
         vocab[chars] += 1
     return vocab
@@ -43,19 +48,23 @@ def get_pair_freq(vocab):
 
 
 def join_pair(pair, vocab):
+    pattern = re.compile(r'(?<!\S)' + re.escape(' '.join(pair)) + r'(?!\S)')
+    replacement = ''.join(pair)
     new_vocab = {}
-    bigram = " ".join(pair)
-    replacement = "".join(pair)
-    for w in vocab:
-        new_word = w.replace(bigram, replacement)
-        new_vocab[new_word] = vocab[w]
+    for word in vocab:
+        new_word = pattern.sub(replacement, word)
+        new_vocab[new_word] = vocab[word]
     return new_vocab
 
 
 def load_corpus(file_path):
+    corpus = []
     with open(file_path) as f:
         file_json = json.load(f)
-    corpus = [entry["text"].split(' ') for entry in file_json]
+        corpuses = [entry["text"].split(' ') for entry in file_json]
+    for c_s in corpuses:
+        for c__s in c_s:
+            corpus.append(c__s)
     return corpus
 
 
