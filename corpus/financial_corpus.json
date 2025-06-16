@@ -1,0 +1,26 @@
+[
+  {
+    "text": "The company's earnings grew 15% year-over-year, beating analyst expectations.",
+    "label": "positive",
+    "source": "news",
+    "ticker": "AAPL"
+  },
+  {
+    "text": "Shares of the firm fell sharply after the quarterly revenue missed estimates.",
+    "label": "negative",
+    "source": "news",
+    "ticker": "AMZN"
+  },
+  {
+    "text": "Dividend payout increased for the third consecutive year.",
+    "label": "positive",
+    "source": "filing",
+    "ticker": "KO"
+  },
+  {
+    "text": "An unexpected downgrade led to a sharp decline in bond prices.",
+    "label": "negative",
+    "source": "news",
+    "ticker": "BND"
+  }
+]
