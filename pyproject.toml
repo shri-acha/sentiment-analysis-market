@@ -5,9 +5,18 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "beautifulsoup4>=4.13.4",
+    "boto3>=1.39.1",
+    "kagglehub>=0.3.12",
     "matplotlib>=3.10.3",
     "numpy>=2.3.0",
+    "praw>=7.8.1",
+    "regex>=2024.11.6",
+    "requests>=2.32.4",
+    "sacremoses>=0.1.1",
+    "selenium>=4.34.0",
     "torch>=2.7.1",
+    "tqdm>=4.67.1",
     "transformers>=4.52.4",
     "yfinance>=0.2.63",
 ]

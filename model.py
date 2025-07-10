@@ -4,13 +4,19 @@ from collections import Counter, defaultdict
 
 
 class Tokenizer:
-    def __init__(self, corpus, no_of_merges):
+    def __init__(self, no_of_merges, corpus=[]):
+    
         self.corpus = corpus
         self.tokens = set()
         self.no_of_merges = no_of_merges
         self.vocab = Counter()
         self.mapping_id = defaultdict(int)
         self.mapping_word = defaultdict(str)
+
+        self.mapping_id["[CLS]"] = 304
+        self.mapping_id["[SEP]"] = 305
+        self.mapping_id["[PAD]"] = 306
+
 
         if not isinstance(corpus, (list, tuple)):
             raise TypeError("Corpus must be a list or tuple")
@@ -34,7 +40,7 @@ class Tokenizer:
         # Sanity check for bad tokens
         for token in self.tokens:
             if token in {'</w', '</', '>'} or re.match(r'</?$', token):
-                print("⚠️ Bad token:", token)
+                print("Bad token:", token)
 
         self.token_to_id()
         return merges, self.tokens
@@ -94,7 +100,10 @@ class Tokenizer:
         return [self.mapping_word.get(id_) for id_ in ids]
 
 
-# You started a BERT class but did not finish it. Here's a placeholder:
+
 class _BERT:
     def __init__(self):
         pass
+    def prepare_input(self):
+        pass
+

@@ -1,6 +1,8 @@
 from model import Tokenizer
+import os
 import pandas as pd
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
+from model_ import _finBERT 
 
 
 def main():
@@ -31,13 +33,15 @@ def main():
     #     "date")[["positive", "neutral", "negative"]].mean()
     # print(daily_sentiment)
 
-    # corpus = load_corpus('./corpus/financial_corpus.json')
-    corpus = ["This", "is", "a", "transformer"]
-    tokenizer = Tokenizer(corpus, 10)
-    # print(corpuses)
-    merges, vocab = tokenizer.bpe_tokenizer()
-    # print(tokenizer.encode(["trans","h","is"]))
-    print(vocab)
+    # corpus = ["This", "is", "a", "transformer"]
+    # tokenizer = Tokenizer(100)
+    # tokenizer.load_corpus('./corpus/financial_corpus.json')
+    # # print(corpuses)
+    # merges, vocab = tokenizer.bpe_tokenizer()
+    # f = os.open("./vocab.txt", 777)
+
+    model = _finBERT()
+    model.test()
 
 
 if __name__ == '__main__':
