@@ -4,7 +4,7 @@ import praw
 # Fetch logic
 
 
-def fetch_data():
+def fetch_reddit_data():
 
     # # Using old.reddit.com testing old.reddit.com for better data
     # urls = ['https://old.reddit.com/r/wallstreetbets/hot.json',
@@ -37,19 +37,16 @@ def fetch_data():
         result_dict = defaultdict()
 
         result_dict['title'] = submission.title
-        result_dict['content'] = submission.title
+        result_dict['content'] = submission.content
         result_dict['comments'] = list()
 
         submission.comments.replace_more(limit=0)
         top_comments = submission.comments[:10]
 
         for i, comment in enumerate(top_comments, 1):
-            result_dict['comments'].append(comment.body[:150])
+            result_dict['content'].append(comment.body[:150])
             # print(f'Top comment [{i}]: {comment.body[:150]}')
         result.append(result_dict)
 
     return result
 
-
-if __name__ == "__main__":
-    fetch_reddit_data()

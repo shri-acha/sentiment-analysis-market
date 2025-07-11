@@ -3,6 +3,7 @@ import os
 import pandas as pd
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 from model_ import _finBERT 
+from dotenv import load_dotenv
 
 
 def main():
@@ -40,8 +41,17 @@ def main():
     # merges, vocab = tokenizer.bpe_tokenizer()
     # f = os.open("./vocab.txt", 777)
 
-    model = _finBERT()
-    model.test()
+    load_dotenv()
+    model = _finBERT() 
+    # Run analysis
+    # results = model.run(company='google', show_details=True)
+    
+    # You can also analyze multiple companies
+    companies = ['google', 'apple', 'microsoft']
+    for company in companies:
+        company_results = model.run(company=company, show_details=False)
+        print(f"{company_results['overall_sentiment']}")
+
 
 
 if __name__ == '__main__':
