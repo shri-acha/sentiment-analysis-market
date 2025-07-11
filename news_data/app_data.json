@@ -1,7 +1,423 @@
 {
     "status": "ok",
-    "totalResults": 9310,
+    "totalResults": 17824,
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "National Post"
+            },
+            "author": "National Post Staff",
+            "title": "Unordered Amazon packages pile up in San Jose home for over a year",
+            "description": "Chinese company selling faux-leather car seat covers had used unwitting woman&#39s address as its U.S. \"return center.\"",
+            "url": "https://nationalpost.com/news/unordered-amazon-packages-pile-up-in-san-jose-home-for-over-a-year",
+            "urlToImage": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2025/07/Financial-Wellness-Amazon-Prime-Sales.jpg",
+            "publishedAt": "2025-07-10T19:28:21Z",
+            "content": "A woman from San Jose, Calif., faced hundreds of Amazon packages of the same product being delivered to her home for over a year, even though she never ordered them.\r\nTHIS CONTENT IS RESERVED FOR SUB\u2026 [+4663 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Deirdre Heavey",
+            "title": "'Not a Democrat': John Fetterman calls Zohran Mamdani's NYC primary win a 'gift' to the GOP",
+            "description": "Sen. John Fetterman disagrees with socialist Mamdani's policies and urges Adams and Cuomo to consolidate against him, while Democratic leaders like Chuck Schumer withhold endorsements.",
+            "url": "https://www.foxnews.com/politics/john-fetterman-disses-zohran-mamdanis-nyc-mayoral-campaign-not-democrat",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/07/mamdani-fetterman-split.png",
+            "publishedAt": "2025-07-10T19:23:39Z",
+            "content": "Sen. John Fetterman, D-Pa., told Fox News' Chad Pergram on Thursday that 33-year-old socialist Zohran Mamdani winning New York City's Democratic primary is \"Christmas in July for the GOP.\"\r\n\"Everythi\u2026 [+3295 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CryptoSlate"
+            },
+            "author": "Oluwapelumi Adejumo",
+            "title": "BIT Mining\u2019s Solana move sparks stock surge to three-year high",
+            "description": "Crypto mining company BIT Mining has strategically moved into the Solana ecosystem, sending its stock to a three-year high. On July 10, the company disclosed its strategic expansion, which includes plans to raise between $200 million and $300 million to estab\u2026",
+            "url": "https://cryptoslate.com/bit-minings-solana-move-sparks-stock-surge-to-three-year-high/",
+            "urlToImage": "https://cryptoslate.com/wp-content/uploads/2025/07/bitmining-solana-treasury.jpg",
+            "publishedAt": "2025-07-10T19:15:17Z",
+            "content": "Crypto mining company BIT Mining has strategically moved into the Solana ecosystem, sending its stock to a three-year high.\r\nOn July 10, the company disclosed its strategic expansion, which includes \u2026 [+2874 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Alisoncolleherman",
+            "title": "The 20 Best \u2018Girls\u2019 Episodes, Ranked",
+            "description": "When \u201cGirls\u201d premiered, there was no other character like Hannah Horvath on TV. Created by multi-hyphenate Lena Dunham, only 26 at the time, Hannah was shamelessly self-absorbed, but also charming and ambitious. Predictably, Dunham took much of the flak for H\u2026",
+            "url": "https://variety.com/lists/girls-best-episodes/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2025/07/GIRLS_S1-BENCH_GROUP-Seliger-Mark-HBO-e1752081243518.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2025-07-10T19:15:00Z",
+            "content": "When Girls premiered, there was no other character like Hannah Horvath on TV. Created by multi-hyphenate Lena Dunham, only 26 at the time, Hannah was shamelessly self-absorbed, but also charming and \u2026 [+21230 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": null,
+            "title": "mono-kit added to PyPI",
+            "description": "None",
+            "url": "https://pypi.org/project/mono-kit/",
+            "urlToImage": null,
+            "publishedAt": "2025-07-10T19:10:55Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": null,
+            "title": "mono-kit 0.1",
+            "description": "None",
+            "url": "https://pypi.org/project/mono-kit/0.1/",
+            "urlToImage": null,
+            "publishedAt": "2025-07-10T19:10:55Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": null,
+            "title": "ev-sdk 0.1.0rc734",
+            "description": "None",
+            "url": "https://pypi.org/project/ev-sdk/0.1.0rc734/",
+            "urlToImage": null,
+            "publishedAt": "2025-07-10T19:08:01Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox11online.com"
+            },
+            "author": "Brian Kerhin",
+            "title": "Kaukauna teacher pleads not guilty to 30 child pornography charges, awaits court date",
+            "description": "A Kaukauna teacher pleaded not guilty to allegedly accessing and sharing child pornography images on his cell phone.",
+            "url": "https://fox11online.com/news/local/kaukauna-teacher-pleads-not-guilty-to-30-child-pornography-charges-awaits-court-date-collin-killoren-exploitation-appleton-calumet-county-st-ignatius-catholic-school",
+            "urlToImage": "https://fox11online.com/resources/media2/16x9/160/986/1x35/90/a712a994-7ec0-47fa-b656-bb705b690c22-thumbnail_image.png",
+            "publishedAt": "2025-07-10T19:07:48Z",
+            "content": "CHILTON (WLUK) A Kaukauna teacher pleaded not guilty Thursday to allegedly accessing and sharing child pornography images on his cell phone.\r\nCollin Killoren, 30, faces 30 counts, including of child \u2026 [+1367 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Hayes Brown",
+            "title": "Senate Republicans have a gambling problem of their own making",
+            "description": "Senate Republicans included a new tax on the losses that sports bettors and other pro gamblers can deduct from their income taxes but nobody knows who added it.",
+            "url": "https://www.msnbc.com/opinion/msnbc-opinion/gambling-tax-trump-big-beautiful-bill-rcna217762",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-07/250709-john-thune-poker-2x1-lr-f50844.jpg",
+            "publishedAt": "2025-07-10T19:07:03Z",
+            "content": "Theres a mystery afoot on Capitol Hill. Tucked within the Republican megabill President Donald Trump signed on July 4 was a tax provision that surprised most, if not all, of the Republican members of\u2026 [+6219 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Linux.org.ru"
+            },
+            "author": "dataman",
+            "title": "PlutoBook",
+            "description": "PlutoBook \u2013 \u043d\u0430\u0434\u0451\u0436\u043d\u0430\u044f \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0430 \u0434\u043b\u044f \u043f\u0430\u0440\u0441\u0438\u043d\u0433\u0430 \u0438 \u0440\u0435\u043d\u0434\u0435\u0440\u0438\u043d\u0433\u0430 HTML, \u043d\u0430\u043f\u0438\u0441\u0430\u043d\u043d\u0430\u044f \u043d\u0430 C++20 \u0438 \u043f\u0440\u0435\u0434\u043d\u0430\u0437\u043d\u0430\u0447\u0435\u043d\u043d\u0430\u044f \u0434\u043b\u044f \u0440\u0430\u0431\u043e\u0442\u044b \u0441 \u043f\u043e\u0441\u0442\u0440\u0430\u043d\u0438\u0447\u043d\u043e\u0439 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0435\u0439. \u041e\u043d\u0430 \u043f\u0440\u0438\u043d\u0438\u043c\u0430\u0435\u0442 HTML \u0438\u043b\u0438 XML \u043d\u0430 \u0432\u0445\u043e\u0434, \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442 \u0442\u0430\u0431\u043b\u0438\u0446\u044b \u0441\u0442\u0438\u043b\u0435\u0439 CSS \u0438 \u0440\u0430\u0437\u043c\u0435\u0449\u0430\u0435\u0442 \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u044b \u043d\u0430 \u043e\u0434\u043d\u043e\u0439 \u0438\u043b\u0438 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u0438\u0445 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430\u2026",
+            "url": "https://www.linux.org.ru/gallery/screenshots/18023954",
+            "urlToImage": "https://www.linux.org.ru/images/22078/500px.jpg",
+            "publishedAt": "2025-07-10T19:03:27Z",
+            "content": "PlutoBook \u2013 HTML, C++20 . HTML XML , CSS , PDF.PlutoBook , , Chromium, WebKit Gecko.\r\n , , C++, std::pmr::monotonic_buffer_resource, .\r\n \u2013 html2pdf.cpp:\r\n$ ./html2pdf https://www.linux.org.ru lor.pdf\u2026 [+1234 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": null,
+            "title": "Nvidia CEO Jensen Huang could soon be richer than Warren Buffett\u2014he's worth $142 billion now",
+            "description": "Nvidia CEO Jensen Huang may soon surpass Warren Buffett in terms of net worth, as his company is the first to ever reach a market capitalization of $4 trillion.",
+            "url": "https://www.cnbc.com/2025/07/10/nvidia-ceo-jensen-huang-could-soon-be-richer-than-warren-buffett.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108152181-17485519702025-05-29t204745z_1041344127_rc2wreahjq7x_rtrmadp_0_usa-nvidia.jpeg?v=1752087887&w=1920&h=1080",
+            "publishedAt": "2025-07-10T19:00:53Z",
+            "content": "Nvidia co-founder and CEO Jensen Huang is now nearly as rich as longtime billionaire Warren Buffett and could even soon surpass the Oracle of Omaha, in terms of net worth.\r\nHuang, 63, has a $142 bill\u2026 [+3858 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fangraphs.com"
+            },
+            "author": "Davy Andrews",
+            "title": "Are We at Peak Center Field Defense?",
+            "description": "Yes, David. We probably are and we probably have been for a while now. Here's why:",
+            "url": "https://blogs.fangraphs.com/are-we-at-peak-center-field-defense/",
+            "urlToImage": "https://blogs.fangraphs.com/wp-content/uploads/2025/07/jacob-young-peak-CF-defense.jpg",
+            "publishedAt": "2025-07-10T19:00:28Z",
+            "content": "Kevin Sousa-Imagn Images\r\nLast week, we received a mailbag question from a Jacob Young fan named David. Actually, it was a multi-part question, and the third sub-question was particularly fun: Are we\u2026 [+8580 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Screen Rant"
+            },
+            "author": "Kieran Hair",
+            "title": "This Chicago Fire Pregnancy Bothers Me More Every Time I Think About One Major Character Detail",
+            "description": "Chicago Fire revealed Stella\u2019s pregnancy as a beautiful surprise, but they forgot one detail that makes her pregnancy feel like a missed opportunity.",
+            "url": "https://screenrant.com/chicago-fire-stella-pregnancy-aunt-laverne-adopt-storyline-undermine/",
+            "urlToImage": "https://static1.srcdn.com/wordpress/wp-content/uploads/2025/05/chicago-fire-season-13-unexpectedly-writes-out-a-character-ahead-of-carver-ritter-s-finale-exit.jpg",
+            "publishedAt": "2025-07-10T19:00:20Z",
+            "content": "Pregnancy can be a joyous experience for a week or two, but Chicago Fire celebrated Stellas surprise bun in the oven while frustratingly ignoring a character detail that made her adoption story so im\u2026 [+6787 chars]"
+        },
+        {
+            "source": {
+                "id": "four-four-two",
+                "name": "FourFourTwo"
+            },
+            "author": "Chris Nee",
+            "title": "\u2018There\u2019s a fault at United that I can\u2019t explain\u2019: Manchester United comments clarified as Fabrizio Romano issues major transfer update",
+            "description": "Wantaway Red Devils star is expected to be on the move this summer but one linked club might not be interested after all",
+            "url": "https://www.fourfourtwo.com/news/fabrizio-romano-clears-up-punchy-comments-about-manchester-united-fault-as-major-move-for-star-is-thrown-into-doubt",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/VBVbmNeTNW3uGs9GyuLdzd.jpg",
+            "publishedAt": "2025-07-10T19:00:00Z",
+            "content": "Transfer expert Fabrizio Romano has issued a denial on behalf of Napoli president Aurelio De Laurentiis, who had some rather spicy quotes attributed to him by the Daily Mail.\r\nManchester United are d\u2026 [+2833 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Emilia Terzon",
+            "title": "This historic pub legally wiped three-quarters of its debt to stay open",
+            "description": "Pubs, cafes and restaurants are legally restructuring to wipe their debts and stay open, as the hospitality industry continues to battle tough trading conditions.",
+            "url": "https://www.abc.net.au/news/2025-07-11/restructure-hospitality-debt-ato-pub-bakery-asic/105495132",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/2987c2836caf532626253d5f7f234401?impolicy=wcms_watermark_news&cropH=2812&cropW=4999&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+            "publishedAt": "2025-07-10T18:57:57Z",
+            "content": "Neville Walton wasn't expecting forgiveness from the Australian Tax Office.\u00a0\r\nThen the publican discovered a legal way that he could wipe a massive chunk of his historic hotel's unpaid $350,000 tax b\u2026 [+11990 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": null,
+            "title": "nominal-api-protos 0.756.0",
+            "description": "None",
+            "url": "https://pypi.org/project/nominal-api-protos/0.756.0/",
+            "urlToImage": null,
+            "publishedAt": "2025-07-10T18:57:46Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": null,
+            "title": "opsml 3.0.0rc12",
+            "description": "None",
+            "url": "https://pypi.org/project/opsml/3.0.0rc12/",
+            "urlToImage": null,
+            "publishedAt": "2025-07-10T18:57:23Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "Michael Rapaport Apologizes for Sharing Fake Concentration Camp Pic",
+            "description": "Michael Rapaport is apologizing to Jews offended by his recent social media post ... where he shared a fake photo of a Holocaust prisoner in a concentration camp. The actor/comedian just released a statement on X ... explaining he thought the image\u2026",
+            "url": "https://www.tmz.com/2025/07/10/michael-rapaport-apologizes-sharing-ai-concentration-camp-photo/",
+            "urlToImage": "https://imagez.tmz.com/image/01/16by9/2025/07/10/013715304ed342b3be89d2695916265e_xl.jpg",
+            "publishedAt": "2025-07-10T18:57:15Z",
+            "content": "Michael Rapaport is apologizing to Jews offended by his recent social media post ... where he shared a fake photo of a Holocaust prisoner in a concentration camp.\r\nThe actor/comedian just released a \u2026 [+907 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Izismile.com"
+            },
+            "author": "vovatb",
+            "title": "Then vs. Now: \u201990s Stars Who Changed Big Time (18 PICS)",
+            "description": "Then vs. Now: \u201990s Stars Who Changed Big Time  (18 PICS)",
+            "url": "https://izismile.com/2025/07/10/then_vs_now_90s_stars_who_changed_big_time_18_pics.html",
+            "urlToImage": "https://img.izismile.com/img/img15/20250710/640/then_vs_now_90s_stars_who_changed_big_time_640_08.jpg",
+            "publishedAt": "2025-07-10T18:53:05Z",
+            "content": "Brendan Fraser\r\nA heartthrob of the 1990s, Brendan famously starred in George of the Jungle and The Mummy trilogy.\r\nThe 56-year-olds film work slowed from the late 2000s to mid-2010s due to poor box \u2026 [+11580 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lesswrong.com"
+            },
+            "author": "Buck",
+            "title": "Lessons from the Iraq War for AI policy",
+            "description": "Published on July 10, 2025 6:52 PM GMTI think the 2003 invasion of Iraq has some interesting lessons for the future of AI policy.(Epistemic status: I\u2019ve read a bit about this, talked to AIs about it, and talked to one natsec professional about it who agreed w\u2026",
+            "url": "https://www.lesswrong.com/posts/PLZh4dcZxXmaNnkYE/lessons-from-the-iraq-war-for-ai-policy",
+            "urlToImage": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg",
+            "publishedAt": "2025-07-10T18:52:40Z",
+            "content": "I think the 2003 invasion of Iraq has some interesting lessons for the future of AI policy.\r\n(Epistemic status: Ive read a bit about this, talked to AIs about it, and talked to one natsec professiona\u2026 [+7358 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lesswrong.com"
+            },
+            "author": "Buck",
+            "title": "Lessons from the Iraq War about AI policy",
+            "description": "Published on July 10, 2025 6:52 PM GMTI think the 2003 invasion of Iraq has some interesting lessons for the future of AI policy.(Epistemic status: I\u2019ve read a bit about this, talked to AIs about it, and talked to one natsec professional about it who agreed w\u2026",
+            "url": "https://www.lesswrong.com/posts/PLZh4dcZxXmaNnkYE/lessons-from-the-iraq-war-about-ai-policy",
+            "urlToImage": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg",
+            "publishedAt": "2025-07-10T18:52:40Z",
+            "content": "I think the 2003 invasion of Iraq has some interesting lessons for the future of AI policy.\r\n(Epistemic status: Ive read a bit about this, talked to AIs about it, and talked to one natsec professiona\u2026 [+7358 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "National Post"
+            },
+            "author": "Courtney Greenberg",
+            "title": "Canada recognizing Palestinian statehood right now would be a 'grave mistake': Israel",
+            "description": "'Rather than advancing peace, it would legitimize violence and severely undermine international efforts to restore stability and security in the region,' says the embassy of Israel to Canada",
+            "url": "https://nationalpost.com/news/canada/canada-palestinian-statehood-grave-mistake-israel",
+            "urlToImage": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2025/07/1012-ed-de-souza_288927327.jpg",
+            "publishedAt": "2025-07-10T18:51:48Z",
+            "content": "In an Instagram post on June 3, Senator Marilou McPhedran thanked Abuamara for her hard work and advocacy. McPhedran, along with other senators from Quebec, Ontario, Manitoba, British Columbia and Sa\u2026 [+2652 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MLB Trade Rumors"
+            },
+            "author": "Steve Adams",
+            "title": "Nationals Sign Francisco Mejia To Minor League Deal",
+            "description": "The Nationals signed catcher Francisco Mejia to a minor league contract and assigned him to Triple-A Rochester on Tuesday. He\u2019d opened the 2025 season in Mexico and made his team debut yesterday, going 0-for-4. Mejia, once one of the top prospects in baseball\u2026",
+            "url": "https://www.mlbtraderumors.com/2025/07/nationals-sign-francisco-mejia-to-minor-league-deal.html",
+            "urlToImage": "https://cdn.mlbtraderumors.com/files/2023/08/francisco-mejia-catcher-1024x711.jpg",
+            "publishedAt": "2025-07-10T18:48:33Z",
+            "content": "The Nationals signed catcher Francisco Mejia to a minor league contract and assigned him to Triple-A Rochester on Tuesday. He\u2019d opened the 2025 season in Mexico and made his team debut yesterday, goi\u2026 [+2328 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": null,
+            "title": "pancham 0.21.5",
+            "description": "None",
+            "url": "https://pypi.org/project/pancham/0.21.5/",
+            "urlToImage": null,
+            "publishedAt": "2025-07-10T18:41:44Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": null,
+            "title": "moutils 0.3.9",
+            "description": "None",
+            "url": "https://pypi.org/project/moutils/0.3.9/",
+            "urlToImage": null,
+            "publishedAt": "2025-07-10T18:37:25Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CryptoSlate"
+            },
+            "author": "Oluwapelumi Adejumo",
+            "title": "Coinbase partners with Perplexity for real-time crypto insights via AI",
+            "description": "Coinbase has announced a new partnership with the AI search platform Perplexity to provide traders direct access to reliable, real-time crypto market data. Coinbase CEO Brian Armstrong shared the update on July 10 via social platform X, confirming that Phase \u2026",
+            "url": "https://cryptoslate.com/coinbase-partners-with-perplexity-for-real-time-crypto-insights-via-ai/",
+            "urlToImage": "https://cryptoslate.com/wp-content/uploads/2025/07/perplexity-coinbase.jpg",
+            "publishedAt": "2025-07-10T18:31:51Z",
+            "content": "Coinbase has announced a new partnership with the AI search platform Perplexity to provide traders direct access to reliable, real-time crypto market data.\r\nCoinbase CEO Brian Armstrong shared the up\u2026 [+2605 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "James Benge",
+            "title": "2026 World Cup Power Rankings: USMNT outside of top 20 and behind Mexico; Spain, Argentina the favorites",
+            "description": "Here's how we rank both potential and qualified World Cup participants ahead of the expanded 48-team 2026 World Cup",
+            "url": "https://www.cbssports.com/soccer/news/2026-world-cup-power-rankings-usmnt-outside-of-top-20-and-behind-mexico-spain-argentina-the-favorites/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/07/10/0f6da8e5-9a87-4500-9676-49246085816e/thumbnail/1200x675/6e36a8757c4cddedd55ebf9ca5b8194c/luna.jpg",
+            "publishedAt": "2025-07-10T18:31:21Z",
+            "content": "With the Gold Cup done and dusted, the 2024-25 international cycle is done and dusted. A year from now we will be in the teeth of the 2026 World Cup knockout stages, so what better time to assess who\u2026 [+14895 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "HuffPost"
+            },
+            "author": "David Moye",
+            "title": "Real-Life Clown Says 'Clown' Isn't The Word For Trump: \"Try 'Buffoon''\"",
+            "description": "Tim Cunningham of Clowns Without Borders wants to \"find\u00a0a better metaphor to despise and depose fascism.\"",
+            "url": "https://www.huffpost.com/entry/tim-cunningham-real-life-clown-insists-trump-is-a-buffoon-not-a-clown_n_686fe7fae4b0e313c1f144b1",
+            "urlToImage": "https://img.huffingtonpost.com/asset/686fe8b1160000dd3242c6b3.jpeg?ops=1200_630",
+            "publishedAt": "2025-07-10T18:23:54Z",
+            "content": "Although Donald Trumps detractors often dismiss him as a clown, a real-life clown is crying foul at that description no joke.\r\nIn a new op-ed for The Washington Post titled, Donald Trump is not a clo\u2026 [+5282 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ncspin.com"
+            },
+            "author": "by Thomas Mills",
+            "title": "The ringer and other US Senate candidates",
+            "description": "NC SPIN: Balanced Debate For The Old North State.",
+            "url": "https://www.ncspin.com/the-ringer-and-other-us-senate-candidates",
+            "urlToImage": "https://www.ncspin.com/assets/images/og-othervoices-v2-1200x628.jpg",
+            "publishedAt": "2025-07-10T18:20:00Z",
+            "content": "Speculation about the US Senate race is hitting a high pitch. On the Democratic side, Democrats are increasingly confident that former Governor Roy Cooper is getting into the race. On the Republican \u2026 [+6163 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TechSpot"
+            },
+            "author": "Alfonso Maruccia",
+            "title": "Cloudflare wants Google to let sites block AI without losing search visibility",
+            "description": "Cloudflare recently announced a new \"pay-per-crawl\" system aimed at pushing back against AI companies that continue to scrape the open web without paying a cent. According to CEO Matthew Prince, the effort should be supported by the very companies doing the c\u2026",
+            "url": "https://www.techspot.com/news/108627-cloudflare-wants-google-sites-block-ai-without-losing.html",
+            "urlToImage": "https://www.techspot.com/images2/news/bigimage/2025/07/2025-07-10-image-14.jpg",
+            "publishedAt": "2025-07-10T18:12:00Z",
+            "content": "Big if True: Cloudflare is taking steps to combat unregulated data scraping carried out by AI crawlers. However, the company's CEO says meaningful progress will also require cooperation from major AI\u2026 [+2377 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sporting News"
+            },
+            "author": "The Sporting News",
+            "title": "Ohio State's biggest villain in 2025 is an underrated head coach",
+            "description": "The Ohio State Buckeyes could have plenty of villains arise in 2025 as they attempt to repeat as champions. Their biggest one, though, is one that's been there since he started coaching: Sherrone Moore of the Michigan Wolverines, someone the Buckeyes have str\u2026",
+            "url": "https://www.sportingnews.com/us/ncaa-football/news/ohio-state-biggest-villain-2025-underrated-head-coach/f55a50e9c588d315c93c3c70",
+            "urlToImage": "https://media.zenfs.com/en/the_sporting_news_articles_584/4821de1c6532c2294fd58d2600c5635a",
+            "publishedAt": "2025-07-10T18:11:55Z",
+            "content": "One thing Ohio State head coach Ryan Day has done since taking over the Buckeyes is win. He's won almost 90% of his games and has a national title now. With a repeat chance on the horizon, there are \u2026 [+1631 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": null,
+            "title": "methodwebscan 0.0.118",
+            "description": "None",
+            "url": "https://pypi.org/project/methodwebscan/0.0.118/",
+            "urlToImage": null,
+            "publishedAt": "2025-07-10T18:10:41Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
+        },
         {
             "source": {
                 "id": null,
@@ -846,422 +1262,6 @@
             "urlToImage": "https://www.pbs.org/wnet/americanmasters/files/2025/07/21.-2016-02-05-16-Lincoln-Center-KevinYatarola_KEY1929.jpg",
             "publishedAt": "2025-07-10T16:32:52Z",
             "content": "Janis Ian, 1965.\r\nFour decades ago, Janis Ian had every reason to believe her career was over. She hadnt scored a single significant hit since At Seventeen a full decade earlier, and her powerful rec\u2026 [+6618 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
-            },
-            "author": "Aaron Couch",
-            "title": "Akiva Goldsman Reflects on Hollywood Hits & Misses",
-            "description": "Akiva Goldsman, the Oscar-winning scribe behind \u2018A Beautiful Mind,\u2019 \u2018I Am Legend\u2019 and now \u2018Strange New Worlds,\u2019 looks back on his storied 30 years in the business.",
-            "url": "http://www.hollywoodreporter.com/movies/movie-features/akiva-goldsman-interview-career-highlights-1236309150/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/07/20250630_THR_Akiva_Goldsman_020-SPLASH-2025.jpg?w=1440&h=810&crop=1",
-            "publishedAt": "2025-07-10T16:32:07Z",
-            "content": "If you were to create a superhero alter ego for Akiva Goldsman, you could do worse than the Master of Multitasking. The writer/producer/sometimes director has spent decades juggling a half-dozen proj\u2026 [+14665 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SB Nation"
-            },
-            "author": "Mark Schofield",
-            "title": "The 3 key questions facing Red Bull F1 after the shocking Christian Horner move",
-            "description": "After Christian Horner\u2019s exit at Red Bull, what are the main questions facing the team and new boss Laurent Mekies",
-            "url": "https://www.sbnation.com/formula-one/2025/7/10/24465179/f1-news-red-bull-horner-verstappen-mekies",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/O8ETDPr6yXUwBr5pFS-l3e1CPTE=/0x280:4728x2755/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/26052621/2222789472.jpg",
-            "publishedAt": "2025-07-10T16:31:51Z",
-            "content": "Photo by Jakub Porzycki/NurPhoto via Getty Images\r\n\n \n\n After Christian Horner\u2019s exit at Red Bull, what are the main questions facing the team and new boss Laurent Mekies As the dust settles from a d\u2026 [+11786 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Classmethod.jp"
-            },
-            "author": "\u304a\u306e\u3084\u3093",
-            "title": "AWS WAF\u3067\u3001\u30c6\u30ca\u30f3\u30c8\u5225\u30b5\u30d6\u30c9\u30e1\u30a4\u30f3\u3054\u3068\u306b\u63a5\u7d9a\u5143IP\u30a2\u30c9\u30ec\u30b9\u5236\u9650\u3092\u3084\u3063\u3066\u307f\u305f",
-            "description": "\u30c6\u30ca\u30f3\u30c8\u304c\u5897\u3048\u308b\u3053\u3068\u306b\u30b5\u30d6\u30c9\u30e1\u30a4\u30f3\u3092\u5207\u308b\u904b\u7528\u3092\u8003\u3048\u3066\u3044\u308b\u30a2\u30d7\u30ea\u30b1\u30fc\u30b7\u30e7\u30f3\u306b\u304a\u3044\u3066\u3001\u30c6\u30ca\u30f3\u30c8\u3054\u3068\u306b\u63a5\u7d9a\u5143IP\u30a2\u30c9\u30ec\u30b9\u5236\u9650\u3092\u304b\u3051\u305f\u3044\u5834\u5408\u306f\u3001AWS WAF\u306eWeb ACL\u306b\u3001\u30c6\u30ca\u30f3\u30c8\u306e\u6570\u3060\u3051\u30eb\u30fc\u30eb\u3092\u4f5c\u6210\u3057\u307e\u3059\u3002",
-            "url": "https://dev.classmethod.jp/articles/aws-waf-tenant-subdomain-ip-restriction/",
-            "urlToImage": "https://images.ctfassets.net/ct0aopd36mqt/wp-thumbnail-8cc2be5d32f2b7e78f85a99d463f3690/6213c0b16f198b77794266f22dc8eb5c/aws-waf",
-            "publishedAt": "2025-07-10T16:31:15Z",
-            "content": "IP\r\nIP\r\nexample.com12tenant1.example.comtenant2.example.com1IP2IP\r\nAWS WAFWAF\r\n2Amazon EC2EC2ALBEC2Elastic IPxxxx.example.com\r\nALB\r\nALBEC2EC2AWS CloudFornationCFn\r\nCFn\r\nAWSTemplateFormatVersion:\"2010\u2026 [+20170 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Newmobilelife.com"
-            },
-            "author": "Andy",
-            "title": "\u878d\u5408\u5c04\u64ca\u8207\u6253\u78da\u584a\u7684 PC \u904a\u6232\u300aSky Racket\u300b\u9650\u6642\u514d\u8cbb",
-            "description": "<!-- wp:paragraph {\"canvasClassName\":\"cnvs-block-core-paragraph-1752164639985\"} -->\n\u7531\u5df4\u897f\u7368\u7acb\u904a\u6232\u958b\u767c\u516c\u53f8 Double Dash Studios \u63a8\u51fa\u7684 PC \u904a\u6232\u300aSky Racket\u300b\uff0c\u672c\u9031\u5728 Epic Games \u5e73\u53f0\u9650\u6642\u514d\u8cbb\uff0c\u5373\u65e5\u8d77\u81f3 2025 \u5e74 7 \u6708 17 \u65e5 23:00 \u524d\u9818\u53d6\u5373\u53ef\u6c38\u4e45\u6536\u85cf\u3002\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph {\"canvasClassName\":\u2026",
-            "url": "https://www.newmobilelife.com/2025/07/11/sky-racket-%e9%99%90%e6%99%82%e5%85%8d%e8%b2%bb/",
-            "urlToImage": "https://static.newmobilelife.com/wp-content/uploads/2025/07/skyrocket.jpg",
-            "publishedAt": "2025-07-10T16:29:40Z",
-            "content": "Double Dash Studios PC Sky Racket Epic Games 2025 7 17 23:00 \r\nSky RacketShmup Breaker\r\nRacketBoy RacketGirl"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Techdirt"
-            },
-            "author": "Tim Cushing",
-            "title": "Oklahoma Sued Again For Mandating Students Be Taught Election Conspiracy Theories, Bible Stories",
-            "description": "Like far too many states in the current Trump era, Oklahoma has also decided the Constitution is meaningless and that whatever the government wants, it can have. In this case, it means mandating every school classroom contain a Bible that must be \u201ctaught\u201d fro\u2026",
-            "url": "https://www.techdirt.com/2025/07/10/oklahoma-sued-again-for-mandating-students-be-taught-election-conspiracy-theories-bible-stories/",
-            "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
-            "publishedAt": "2025-07-10T16:25:00Z",
-            "content": "from the let's-make-kids-stupider dept\r\nLike far too many states in the current Trump era, Oklahoma has also decided the Constitution is meaningless and that whatever the government wants, it can hav\u2026 [+6651 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BleepingComputer"
-            },
-            "author": "johnsig",
-            "title": "Home Network Speeds - Do These Seem Reasonable?",
-            "description": "Home Network Speeds - Do These Seem Reasonable? - posted in Networking: At age 78, I dont seem to be able to handle this stuff the way I used to. I should have had kids!\nFollowing my query is the information requested by the pinned topic in this forum.\n\u00a0\nSpec\u2026",
-            "url": "https://www.bleepingcomputer.com/forums/t/809454/home-network-speeds-do-these-seem-reasonable/",
-            "urlToImage": "https://www.bleepingcomputer.com/forums/public/style_images/master/meta_image.png",
-            "publishedAt": "2025-07-10T16:22:49Z",
-            "content": "At age 78, I don't seem to be able to handle this stuff the way I used to. I should have had kids!\r\nFollowing my query is the information requested by the pinned topic in this forum.\r\nSpectrum Cable \u2026 [+40383 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Exclaim!"
-            },
-            "author": "Alex Hudson",
-            "title": "Ethel Cain Apologizes After Racist, Fatphobic Jokes Emerge Online",
-            "description": "Ethel Cain has released a lengthy statement apologizing after a series of screenshots emerged online this week, revealing the artist's past",
-            "url": "https://exclaim.ca/music/article/ethel-cain-apologizes-after-racist-fat-phobic-jokes-emerge-online",
-            "urlToImage": "https://assets.exclaim.ca/image/upload/v1752163397/ethel_cain_2025_dollie_kyarn_fd8855fe75.png",
-            "publishedAt": "2025-07-10T16:20:32Z",
-            "content": "Ethel Cain has released a lengthy statement apologizing after a series of screenshots emerged online this week, revealing the artist's past edgelord behaviour including racist jokes, references to in\u2026 [+13830 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Pypi.org"
-            },
-            "author": "eldermillenial@protonmail.com",
-            "title": "charli3_dendrite 1.2.4.dev0",
-            "description": "None",
-            "url": "https://pypi.org/project/charli3-dendrite/1.2.4.dev0/",
-            "urlToImage": null,
-            "publishedAt": "2025-07-10T16:20:26Z",
-            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Pypi.org"
-            },
-            "author": null,
-            "title": "conviso-cli 2.5.3rc0",
-            "description": "None",
-            "url": "https://pypi.org/project/conviso-cli/2.5.3rc0/",
-            "urlToImage": null,
-            "publishedAt": "2025-07-10T16:16:13Z",
-            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Frequentmiler.com"
-            },
-            "author": "Frequent Miler",
-            "title": "Bilt to ditch Wells Fargo for Cardless while adding two premium cards",
-            "description": "Via an email sent to members and a separate press release, Bilt Rewards has announced a change that most folks have long expected: next year, it will be ending its relationship with Wells Fargo. Wells currently issues Bilt\u2019s Mastercard, but a leak last year s\u2026",
-            "url": "https://frequentmiler.com/bilt-to-ditch-wells-fargo-for-cardless-while-adding-two-premium-cards/",
-            "urlToImage": "https://frequentmiler.com/wp-content/uploads/2025/07/Bilt-Kicking-Wells-Fargo.jpg",
-            "publishedAt": "2025-07-10T16:15:16Z",
-            "content": "Via an email sent to members and a separate press release, Bilt Rewards has announced a change that most folks have long expected: next year, it will be ending its relationship with Wells Fargo.\r\nWel\u2026 [+3053 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Pypi.org"
-            },
-            "author": "you@example.com",
-            "title": "tagvalidator added to PyPI",
-            "description": "None",
-            "url": "https://pypi.org/project/tagvalidator/",
-            "urlToImage": null,
-            "publishedAt": "2025-07-10T16:13:54Z",
-            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Pypi.org"
-            },
-            "author": "you@example.com",
-            "title": "tagvalidator 0.1.0",
-            "description": "None",
-            "url": "https://pypi.org/project/tagvalidator/0.1.0/",
-            "urlToImage": null,
-            "publishedAt": "2025-07-10T16:13:54Z",
-            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Cut"
-            },
-            "author": "Cathy Horyn",
-            "title": "Demna\u2019s Last Balenciaga Collection Was His Best",
-            "description": "The Balenciaga couture collection, which will be Demna\u2019s last before he takes the helm at Gucci, was his best work yet.",
-            "url": "http://www.thecut.com/article/cathy-horyn-fashion-review-balenciaga-couture.html",
-            "urlToImage": "https://pyxis.nymag.com/v1/imgs/c2c/961/4709d1fc6739940335fc47c4f2ad00418f-balenciaga-lede.1x.rsocial.w1200.jpg",
-            "publishedAt": "2025-07-10T16:13:03Z",
-            "content": "The designer known simply as Demna has done much to change fashion over the past decade since becoming the creative director of Balenciaga. He beefed up bodies with his oversize tailoring and fat sne\u2026 [+5289 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Pypi.org"
-            },
-            "author": "mark.hall@work.room3b.eu",
-            "title": "uEdition-Editor 2.0.0b7",
-            "description": "None",
-            "url": "https://pypi.org/project/uedition-editor/2.0.0b7/",
-            "urlToImage": null,
-            "publishedAt": "2025-07-10T16:11:28Z",
-            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBM (Comic Book Movie)"
-            },
-            "author": "SpideyPuffsMJ",
-            "title": "Is It Too Late to Solve Marvel's Disney Plus Problem?",
-            "description": "Why do the Marvel Disney+ shows still seem to not have found their footing 4 years in? I dive into what I think is going on and what needs to be done to fix it.",
-            "url": "https://comicbookmovie.com/tv/marvel/is-it-too-late-to-solve-marvels-disney-plus-problem-a222662",
-            "urlToImage": "https://comicbookmovie.com/images/articles/banners/is-it-too-late-to-solve-marvels-disney-plus-problem-ab222662.jpg",
-            "publishedAt": "2025-07-10T16:10:59Z",
-            "content": "In the Beginning, There Was WandaVision\r\nWandavision\u00a0was released way back in 2021. It marked the beginning of a new era or experiment in the MCU: long-form television series directly connected to th\u2026 [+5622 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Pypi.org"
-            },
-            "author": "karisaya@foxmail.com",
-            "title": "clovers-sarof-game-collection 0.1.0",
-            "description": "None",
-            "url": "https://pypi.org/project/clovers-sarof-game-collection/0.1.0/",
-            "urlToImage": null,
-            "publishedAt": "2025-07-10T16:10:37Z",
-            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Pypi.org"
-            },
-            "author": "karisaya@foxmail.com",
-            "title": "clovers-sarof-ranklist 0.1.0",
-            "description": "None",
-            "url": "https://pypi.org/project/clovers-sarof-ranklist/0.1.0/",
-            "urlToImage": null,
-            "publishedAt": "2025-07-10T16:10:10Z",
-            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Pypi.org"
-            },
-            "author": "karisaya@foxmail.com",
-            "title": "clovers-sarof-ranklist added to PyPI",
-            "description": "None",
-            "url": "https://pypi.org/project/clovers-sarof-ranklist/",
-            "urlToImage": null,
-            "publishedAt": "2025-07-10T16:10:10Z",
-            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Pypi.org"
-            },
-            "author": "karisaya@foxmail.com",
-            "title": "clovers_sarof_market 0.1.0",
-            "description": "None",
-            "url": "https://pypi.org/project/clovers-sarof-market/0.1.0/",
-            "urlToImage": null,
-            "publishedAt": "2025-07-10T16:09:44Z",
-            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Pypi.org"
-            },
-            "author": "karisaya@foxmail.com",
-            "title": "clovers_sarof_gacha added to PyPI",
-            "description": "None",
-            "url": "https://pypi.org/project/clovers-sarof-gacha/",
-            "urlToImage": null,
-            "publishedAt": "2025-07-10T16:09:05Z",
-            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Pypi.org"
-            },
-            "author": "karisaya@foxmail.com",
-            "title": "clovers-sarof-account added to PyPI",
-            "description": "None",
-            "url": "https://pypi.org/project/clovers-sarof-account/",
-            "urlToImage": null,
-            "publishedAt": "2025-07-10T16:08:31Z",
-            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Pypi.org"
-            },
-            "author": "karisaya@foxmail.com",
-            "title": "clovers-sarof-account 0.1.0",
-            "description": "None",
-            "url": "https://pypi.org/project/clovers-sarof-account/0.1.0/",
-            "urlToImage": null,
-            "publishedAt": "2025-07-10T16:08:31Z",
-            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Pypi.org"
-            },
-            "author": "karisaya@foxmail.com",
-            "title": "clovers_sarof added to PyPI",
-            "description": "None",
-            "url": "https://pypi.org/project/clovers-sarof/",
-            "urlToImage": null,
-            "publishedAt": "2025-07-10T16:07:52Z",
-            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Pypi.org"
-            },
-            "author": "karisaya@foxmail.com",
-            "title": "clovers_sarof 0.1.0",
-            "description": "None",
-            "url": "https://pypi.org/project/clovers-sarof/0.1.0/",
-            "urlToImage": null,
-            "publishedAt": "2025-07-10T16:07:52Z",
-            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Raw Story"
-            },
-            "author": "Bill Blum, Common Dreams",
-            "title": "The Supreme Court chickened out \u2014 and left behind a huge mess",
-            "description": "Just how bad is the Supreme Court\u2019s June 27 decision on birthright citizenship? Among progressive and liberal commentators, the thinking is surprisingly mixed. Some assert that Trump v. CASA \u201ccouldn\u2019t be more disastrous\u201d and will leave the Trump administratio\u2026",
-            "url": "https://www.rawstory.com/the-supreme-court-chickened-out-and-left-behind-a-huge-mess/",
-            "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=61117220&width=1200&height=600&coordinates=0%2C31%2C0%2C31",
-            "publishedAt": "2025-07-10T16:07:15Z",
-            "content": "Just how bad is the Supreme Courts June 27 decision on birthright citizenship? Among progressive and liberal commentators, the thinking is surprisingly mixed. Some assert that Trump v. CASAcouldnt be\u2026 [+7780 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Pypi.org"
-            },
-            "author": null,
-            "title": "nominal-api-protos 0.755.1",
-            "description": "None",
-            "url": "https://pypi.org/project/nominal-api-protos/0.755.1/",
-            "urlToImage": null,
-            "publishedAt": "2025-07-10T16:06:39Z",
-            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Pypi.org"
-            },
-            "author": null,
-            "title": "nominal-api 0.755.1",
-            "description": "None",
-            "url": "https://pypi.org/project/nominal-api/0.755.1/",
-            "urlToImage": null,
-            "publishedAt": "2025-07-10T16:06:36Z",
-            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
-        },
-        {
-            "source": {
-                "id": "newsweek",
-                "name": "Newsweek"
-            },
-            "author": "Jesus Mesa",
-            "title": "'We've Been Played': MAGA Faces Its Own Disappointment With Trump",
-            "description": "For years, Trump's base thrived on promises to expose secret government plots and powerful cabals of pedophiles. What happens when he fails to deliver?",
-            "url": "https://www.newsweek.com/maga-donald-trump-jeffrey-epstein-conspiracy-theories-2097180",
-            "urlToImage": "https://d.newsweek.com/en/full/2680451/maga-epstein-reaction.jpg",
-            "publishedAt": "2025-07-10T16:06:36Z",
-            "content": "Promises of uncovering secret assassination files and naming powerful pedophiles kept the MAGA movement energized for years. Many supporters believed Donald Trump would finally expose government cove\u2026 [+10241 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "20somethingfinance.com"
-            },
-            "author": "G.E. Miller",
-            "title": "The EV Tax Credits Now Expire 9/30/25. What you Need to Know.",
-            "description": "The EV Tax Credits will Now Expire 9/30/25 A PSA to readers who have recently considered the purchase of an electric vehicle (EV): the EV tax credits now have an expiration date of September 30, 2025. Technically, any eligible EV purchase must be delivered by\u2026",
-            "url": "https://20somethingfinance.com/ev-tax-credit-expiration-date/",
-            "urlToImage": "https://20somethingfinance.com/wp-content/uploads/EV-Tax-Credit-Expiration-Date.jpg",
-            "publishedAt": "2025-07-10T16:05:47Z",
-            "content": "The EV Tax Credits will Now Expire 9/30/25\r\nA PSA to readers who have recently considered the purchase of an electric vehicle (EV): the EV tax credits now have an expiration date of September 30, 202\u2026 [+2968 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "PC Gamer"
-            },
-            "author": "Elie Gould",
-            "title": "Mycopunk review",
-            "description": "You can beat up fungus-infected robots while directed by a talking cockroach, what's not to love?",
-            "url": "https://www.pcgamer.com/games/fps/mycopunk-review/",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/VjxNjkSnh9ToAkXfKgFBig.jpg",
-            "publishedAt": "2025-07-10T16:05:19Z",
-            "content": "It was meant to be a simple mission. My line manager at the humble mega-mining corporation Saxon\u2014the cockroach known as Roachard Cox\u2014laid it all out: break into a compound, tear through the fungus an\u2026 [+8301 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Pypi.org"
-            },
-            "author": "alexander@hatchet.run",
-            "title": "hatchet-sdk 1.15.0",
-            "description": "None",
-            "url": "https://pypi.org/project/hatchet-sdk/1.15.0/",
-            "urlToImage": null,
-            "publishedAt": "2025-07-10T16:02:08Z",
-            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Pypi.org"
-            },
-            "author": "team@pdfzipper.com",
-            "title": "pdf-zipper added to PyPI",
-            "description": "A powerful PDF compression tool with GUI and CLI interfaces",
-            "url": "https://pypi.org/project/pdf-zipper/",
-            "urlToImage": "https://pypi.org/static/images/twitter.abaf4b19.webp",
-            "publishedAt": "2025-07-10T16:01:25Z",
-            "content": "A powerful PDF compression tool with both GUI and CLI interfaces, built with modern Python.\r\n Screenshots\r\n<table><tr><td> Beautiful Terminal GUI\r\nInteractive file browser with drag &amp; drop suppor\u2026 [+3207 chars]"
         }
     ]
 }

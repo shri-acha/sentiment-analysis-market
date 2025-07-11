@@ -63,7 +63,7 @@ class _finBERT:
             timestamp = timestamp or date.today()
             raw_data = data_fs_news_api.fetch_data(
                 company=company, timestamp=timestamp-timedelta(days=14))
-            return data_fs_news_api.relevant_data(raw_data)
+            return data_fs_news_api.return_titles(raw_data)
         except Exception as e:
             logger.error(f"Error fetching news data: {e}")
             return []
